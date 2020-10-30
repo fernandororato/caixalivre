@@ -30,7 +30,7 @@ Para saber o resumo da movimentação diária, deverá ser usado o método GET p
 Passando os parâmetros dentro do Headers:
 - Accept : application/json
 - Authorization: Bearer + o token retornado do login
-<img src="https://projetodaminhavida.com.br/images/caixa.png" alt="Retornando o resumo da movimentação via API">
+<img src="http://projetodaminhavida.com.br/images/caixa.png" alt="Retornando o resumo da movimentação via API">
 
 
 
