@@ -1,3 +1,8 @@
+## Demonstração
+
+Para acessar a demonstração <a href="https://caixalivre.pedeumtoori.com.br/">clique aqui (demo).</a>
+Usuário: teste@email.com
+Senha: 12345678
 
 ## Sobre o Sistema Caixa Livre
 
